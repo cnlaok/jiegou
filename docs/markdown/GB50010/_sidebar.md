@@ -1,9 +1,9 @@
 * Getting started
 
-  * [wwwwww](quickstart.md)
-  * [Writing more pages](more-pages.md)
-  * [Custom navbar](custom-navbar.md)
-  * [Cover page](cover.md)
+  * [wwwwww](GB50010/quickstart.md)
+  * [Writing more pages](GB50010/more-pages.md)
+  * [Custom navbar](GB50010/custom-navbar.md)
+  * [Cover page](GB50010/cover.md)
 
 * Customization
 
