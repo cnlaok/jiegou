@@ -1,12 +1,13 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>4.7.1</small>
+# JieGou Work <small>4.7.1</small>
 
-> A magical documentation site generator.
+> 一个总结结构的小网站.
 
-* Simple and lightweight (~19kB gzipped)
-* No statically built html files
-* Multiple themes
+* 结构设计
+* 规范学校
+* 工程总结
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[LaoK](https://laok.pw)
 [Getting Started](#docsify)
+
