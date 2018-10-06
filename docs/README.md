@@ -1,7 +1,7 @@
 ## Jiegou.Work
 
 > A magical documentation site generator.
-
+Test [Test](quickstart.md) for more details.
 ## What is it
 
 docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as website. All you need to do is create an `index.html` to start and [deploy it on GitHub Pages](deploy.md).
