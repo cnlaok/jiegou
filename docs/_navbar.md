@@ -1,6 +1,6 @@
 - ==规范选择==
   - [GB50011](/)
-  - [GB50010](/GB50010/)
+  - [:zh: GB50010](/GB50010/)
   - [:de: Deutsch](/de-de/)
   - [:es: Spanish](/es/)
   - [:ru: Russian](/ru/)
