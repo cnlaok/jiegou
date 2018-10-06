@@ -1,6 +1,6 @@
 - Translations
   - [GB50011](/)
-  - [GB50010](/zh-cn/)
+  - [GB50010](/GB50010/)
   - [:de: Deutsch](/de-de/)
   - [:es: Spanish](/es/)
   - [:ru: Russian](/ru/)
