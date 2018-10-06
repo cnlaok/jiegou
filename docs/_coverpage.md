@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# JieGou Work <small>0.0.1</small>
+# JieGou Work <small>0.0.1 Pro</small>
 
 > 一个总结结构的小网站.
 
