@@ -1,3 +1,7 @@
+* 规范选择
+
+[GB50010](/GB50010/)
+
 * Getting started
 
   * [Quick start](quickstart.md)
