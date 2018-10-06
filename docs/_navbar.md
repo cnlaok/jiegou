@@ -1,4 +1,4 @@
-- Translations
+- ==规范选择==
   - [GB50011](/)
   - [GB50010](/GB50010/)
   - [:de: Deutsch](/de-de/)
