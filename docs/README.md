@@ -1,6 +1,6 @@
 ## Jiegou.Work
 
-![首页介绍](docs/_images/readme介绍.jpg)
+![首页介绍](_images/readme介绍.jpg)
 
 ## What is it
 
