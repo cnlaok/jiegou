@@ -6,5 +6,5 @@
 
 
 [作者网站](https://laok.pw)
-[开始进入](#jiegouwork)
+[开始使用](#jiegouwork)
 
