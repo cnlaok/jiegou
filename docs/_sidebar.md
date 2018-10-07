@@ -2,9 +2,9 @@
 
   * [GB50010](/GB50010/)
 
-* Getting started
+* 开始使用
 
-  * [Quick start](quickstart.md)
+  * [网站介绍](quickstart.md)
   * [Writing more pages](more-pages.md)
   * [Custom navbar](custom-navbar.md)
   * [Cover page](cover.md)
@@ -29,4 +29,4 @@
   * [Embed Files <sup style="color:red">(new)<sup>](embed-files.md)
 
 * [Awesome docsify](awesome.md)
-* [Changelog](changelog.md)
+* [开发日志](changelog.md)
