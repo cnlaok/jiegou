@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# JieGou Work <small>0.0.1 Pro</small>
+# JieGou Work <small>0.1.1 Pro</small>
 
 > 作者本人一个小小的总结网站！
 
