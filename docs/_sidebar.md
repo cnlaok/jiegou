@@ -31,5 +31,5 @@
   * [Server-Side Rendering(SSR)](ssr.md)
   * [Embed Files <sup style="color:red">(new)<sup>](embed-files.md)
 
-* [Awesome docsify](awesome.md)
+* [问题反馈](feedback.md)
 * [开发日志](changelog.md)
