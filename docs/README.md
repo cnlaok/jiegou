@@ -1,32 +1,20 @@
-## Jiegou.Work
+## 网站
 
 ![首页介绍](_images/readme介绍.jpg)
 
-## What is it
-
-docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as website. All you need to do is create an `index.html` to start and [deploy it on GitHub Pages](deploy.md).
+## 立场
 
 See the [Quick start](quickstart.md) for more details.
 
-## Features
+## 期望
 
-- No statically built html files
-- Simple and lightweight (~19kB gzipped)
-- Smart full-text search plugin
-- Multiple themes
-- Useful plugin API
-- Emoji support
-- Compatible with IE10+
-- Support SSR ([example](https://github.com/docsifyjs/docsify-ssr-demo))
+- 花10年时间完善整个对结构设计的系统理解
+- 加入更多的朋友完善本站
 
-## Examples
+## 捐赠
 
-Check out the [Showcase](https://github.com/docsifyjs/docsify/#showcase) to docsify in use.
+如果您认为jiegou.work对您有帮助或我的工作很有价值，请考虑捐赠。如果你能帮我买一杯咖啡，我很高兴。心:heart:
 
-## Donate
+## 讨论
 
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
-
-## Community
-
-Users and development team are in the [Gitter](https://gitter.im/docsifyjs/Lobby).
+大家可以进入网站或者加入github完善本站及所有文章 [laok.pw](https://laok.pw).
