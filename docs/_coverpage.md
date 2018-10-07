@@ -5,6 +5,6 @@
 > 一个总结结构的小网站.
 
 
-[LaoK](https://laok.pw)
-[Getting Started](#jiegouwork)
+[作者网站](https://laok.pw)
+[开始进入](#jiegouwork)
 
