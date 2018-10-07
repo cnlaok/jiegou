@@ -2,8 +2,7 @@
 
 # JieGou Work <small>0.0.1 Pro</small>
 
-> 一个总结结构的小网站.
-
+> 作者本人一个小小的总结网站！
 
 [作者网站](https://laok.pw)
 [开始使用](#jiegouwork)
