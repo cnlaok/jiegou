@@ -1,7 +1,6 @@
 ## Jiegou.Work
 
-> A magical documentation site generator.
-Test [Test](./markdown/20181006.md) for more details.
+![首页介绍](docs/_images/readme介绍.jpg)
 
 ## What is it
 
